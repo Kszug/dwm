@@ -6,3 +6,28 @@ Added patches:
  - vanitygaps
  - deck
  - shifttools
+Added fontawesome tag icons
+List of custom keybinds:
+vanitygaps:
+    10px Gaps between windows and screen (Horizontal and Vertical)
+shift-tools:
+    Mod + n to switch to the next tag
+    Mod + b to switch to the previous tag
+    Mod + Shift + n to switch the window and the view to the next tag
+    Mod + Shift + b to switch the window and the view to the previous tag
+Center Master:
+    Mod + g to switch to center master layout
+Deck:
+    Mod + d to switch to deck layout (one master and one slave)
+Swallow:
+    terminal windows that spawned an application are hidden
+Alwaysontop:
+    Mod + Space + Ctrl to make a window stay on top
+Other:
+    Mod + c to close a window
+    Mod + F11/F12 to change volume
+    Mod + AudioMute to toggle volume
+    PrntScr to Screenshot using flameshot
+    Fontaswesome tag icons
+    Programs spawn at their dedicated tags
+    Inconsolata is used for Both dwm and dmenu
